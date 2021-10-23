@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EP1qRFYcwUp+kaeZNzAiEbARLmnGUFUthCWxzKdNpVzVYxOI1KY5GWxIt4DVwP/A/A/HpTM/RRWPNcKqOJdNag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex02-Conditionals\\OPg2 Conditional - Ø3,2\\OPg2 Conditional - Ø3,2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan H\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

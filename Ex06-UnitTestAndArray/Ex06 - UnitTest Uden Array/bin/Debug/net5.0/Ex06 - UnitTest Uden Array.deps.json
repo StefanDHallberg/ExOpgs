@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Ex06 - UnitTest Uden Array/1.0.0": {
+        "runtime": {
+          "Ex06 - UnitTest Uden Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex06 - UnitTest Uden Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

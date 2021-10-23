@@ -1,0 +1,14 @@
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.exe
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.deps.json
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.runtimeconfig.json
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.runtimeconfig.dev.json
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.dll
+C:\Users\Karoline\source\repos\Trekant\Trekant\bin\Debug\netcoreapp3.1\Trekant.pdb
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.csproj.AssemblyReference.cache
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.AssemblyInfoInputs.cache
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.AssemblyInfo.cs
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.csproj.CoreCompileInputs.cache
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.dll
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.pdb
+C:\Users\Karoline\source\repos\Trekant\Trekant\obj\Debug\netcoreapp3.1\Trekant.genruntimeconfig.cache

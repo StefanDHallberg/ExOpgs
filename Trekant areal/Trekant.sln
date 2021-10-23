@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trekant", "Trekant\Trekant.csproj", "{496D1418-C7B0-45B8-BC3F-E24C346E6DB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496D1418-C7B0-45B8-BC3F-E24C346E6DB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496D1418-C7B0-45B8-BC3F-E24C346E6DB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496D1418-C7B0-45B8-BC3F-E24C346E6DB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496D1418-C7B0-45B8-BC3F-E24C346E6DB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCCC7064-D39C-44F6-8695-7BAE069A96C2}
+	EndGlobalSection
+EndGlobal

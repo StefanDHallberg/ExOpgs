@@ -1,0 +1,48 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.genruntimeconfig.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.exe
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.deps.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.dev.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\bin\Debug\net5.0\Disaheim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.csproj.AssemblyReference.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfo.cs
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex15-Disaheim\Disaheim\obj\Debug\net5.0\Disaheim.genruntimeconfig.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.exe
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.deps.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.runtimeconfig.dev.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\bin\Debug\net5.0\Disaheim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.csproj.AssemblyReference.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfoInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.AssemblyInfo.cs
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.csproj.CoreCompileInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\ref\Disaheim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\ex16-Disaheim2\Disaheim\obj\Debug\net5.0\Disaheim.genruntimeconfig.cache

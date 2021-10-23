@@ -1,0 +1,28 @@
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.csproj.AssemblyReference.cache
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.AssemblyInfoInputs.cache
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.AssemblyInfo.cs
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.exe
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.deps.json
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.runtimeconfig.json
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.runtimeconfig.dev.json
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.dll
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.pdb
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.dll
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.pdb
+C:\Users\Stefan H\source\repos\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\bin\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 4 - Loops - Strings\Øvelse 2.12 Skan og udregn simple regneudtryk\obj\Debug\netcoreapp3.1\Øvelse 2.12 Skan og udregn simple regneudtryk.genruntimeconfig.cache

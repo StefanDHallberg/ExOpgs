@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lommeregner med muligheder/1.0.0": {
+        "runtime": {
+          "Lommeregner med muligheder.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lommeregner med muligheder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

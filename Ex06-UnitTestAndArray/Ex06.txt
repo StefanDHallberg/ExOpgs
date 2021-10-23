@@ -1,0 +1,66 @@
+using System;
+
+namespace Ex06Arrays
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            /*//No arrays
+            double ageMathias = 20;
+            Console.WriteLine("Mathias = " + ageMathias);
+            double ageAlexander = 26;
+            Console.WriteLine("Alexander = " + ageAlexander);
+            double ageBastian = 29;
+            Console.WriteLine("Bastian = " + ageBastian);
+            double ageJesper = 22;
+            Console.WriteLine("Jesper = " + ageJesper);
+            double average = (ageAlexander + ageBastian + ageJesper + ageMathias) / 4;
+            Console.WriteLine("Gennemsnitsalderen er : " + average);
+            Console.ReadLine();
+            */
+
+            int numOfPeople = 4;
+            int length = numOfPeople;
+            double[] ages = new double[4]
+            {
+                20, 26, 28, 22
+            };
+
+            double ageSum = 0;
+            for (int i = 0; i < length; i++)
+            {
+                ageSum += ages[i];
+                Console.WriteLine(ages[i]);
+            }
+            Console.WriteLine(ageSum/numOfPeople);
+
+
+
+            bool ageNotFound = true;
+            while (ageNotFound)
+            {
+                Console.WriteLine("Input an age, and we'll see if it exists");
+                double ageToSearchFor = double.Parse(Console.ReadLine());
+                for (int i = 0; i < length; i++)
+                {
+                    if (ages[i] == ageToSearchFor)
+                    {
+                        ageNotFound = false;
+                    }
+                }
+                if(ageNotFound)
+                {
+                    Console.WriteLine("Age wasn't found");
+                }
+                else
+                {
+                    Console.WriteLine("Age was found");
+                    ageNotFound = false;
+                }
+                
+            }
+
+        }
+    }
+}

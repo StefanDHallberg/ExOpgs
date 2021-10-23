@@ -1,0 +1,16 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\ref\BankAccount.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\bin\Debug\net5.0\BankAccount.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\ref\BankAccount.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex14-BankAccountAndSorting\BankAccount\obj\Debug\net5.0\BankAccount.genruntimeconfig.cache

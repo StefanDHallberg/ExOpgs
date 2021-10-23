@@ -1,0 +1,21 @@
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.exe
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.deps.json
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.runtimeconfig.json
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.runtimeconfig.dev.json
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.dll
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\bin\Debug\netcoreapp3.1\Lommeregner med muligheder.pdb
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.csproj.AssemblyReference.cache
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.AssemblyInfoInputs.cache
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.AssemblyInfo.cs
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.dll
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.pdb
+C:\Users\Stefan H\source\repos\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Lommeregner med muligheder\obj\Debug\netcoreapp3.1\Lommeregner med muligheder.pdb

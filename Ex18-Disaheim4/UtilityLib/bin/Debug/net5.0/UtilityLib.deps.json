@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "UtilityLib/1.0.0": {
+        "dependencies": {
+          "Disaheim": "1.0.0"
+        },
+        "runtime": {
+          "UtilityLib.dll": {}
+        }
+      },
+      "Disaheim/1.0.0": {
+        "runtime": {
+          "Disaheim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UtilityLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Disaheim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

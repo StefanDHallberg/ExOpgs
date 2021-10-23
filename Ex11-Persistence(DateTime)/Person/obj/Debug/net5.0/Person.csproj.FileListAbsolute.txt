@@ -1,0 +1,32 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\ref\Person.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.genruntimeconfig.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.exe
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.deps.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.runtimeconfig.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.runtimeconfig.dev.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\ref\Person.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\bin\Debug\net5.0\Person.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.csproj.AssemblyReference.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.AssemblyInfoInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.AssemblyInfo.cs
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.csproj.CoreCompileInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\ref\Person.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex11-Persistence(DateTime)\Person\obj\Debug\net5.0\Person.genruntimeconfig.cache

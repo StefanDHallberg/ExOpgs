@@ -1,0 +1,32 @@
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.exe
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.deps.json
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.runtimeconfig.json
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.runtimeconfig.dev.json
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\ref\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.pdb
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.csproj.AssemblyReference.cache
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.AssemblyInfoInputs.cache
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.AssemblyInfo.cs
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\ref\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.pdb
+C:\Users\Stefan H\source\repos\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\ref\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\bin\Debug\net5.0\Ex06 - UnitTest Uden Array.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\ref\Ex06 - UnitTest Uden Array.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 6 - UnitTest&Array\Ex06 - UnitTest Uden Array\obj\Debug\net5.0\Ex06 - UnitTest Uden Array.genruntimeconfig.cache

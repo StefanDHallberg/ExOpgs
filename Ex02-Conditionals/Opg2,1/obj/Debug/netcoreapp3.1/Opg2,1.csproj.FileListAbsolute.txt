@@ -1,0 +1,14 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\bin\Debug\netcoreapp3.1\Opg2,1.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2,1\obj\Debug\netcoreapp3.1\Opg2,1.genruntimeconfig.cache

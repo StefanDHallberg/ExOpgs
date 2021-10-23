@@ -1,0 +1,14 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\bin\Debug\netcoreapp3.1\Opg2 IF-excercises.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Opg 2\Opg2 IF-excercises\obj\Debug\netcoreapp3.1\Opg2 IF-excercises.genruntimeconfig.cache

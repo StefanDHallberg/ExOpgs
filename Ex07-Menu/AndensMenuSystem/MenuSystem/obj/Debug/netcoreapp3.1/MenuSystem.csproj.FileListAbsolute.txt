@@ -1,0 +1,14 @@
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.exe
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.deps.json
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.runtimeconfig.json
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.runtimeconfig.dev.json
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.dll
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\bin\Debug\netcoreapp3.1\MenuSystem.pdb
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.csproj.AssemblyReference.cache
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.AssemblyInfoInputs.cache
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.AssemblyInfo.cs
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.csproj.CoreCompileInputs.cache
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.dll
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.pdb
+C:\Users\Jaco Sørensen\source\repos\MenuSystem\MenuSystem\obj\Debug\netcoreapp3.1\MenuSystem.genruntimeconfig.cache

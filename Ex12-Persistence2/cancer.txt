@@ -1,0 +1,47 @@
+ public void SavePerson(Person person)  Datetime.compare()
+        {
+                StreamWriter sw = new StreamWriter(dataFileName);
+                sw.WriteLine(person.MakeTitle());
+                sw.Close();
+        }
+        public Person LoadPerson()
+        {
+            Person person;
+            String line;
+            string[] array = new string[5];
+
+            StreamReader sr = new StreamReader(dataFileName);
+            line = sr.ReadLine();
+            array = line.Split(';');
+            sr.Close();
+            person = new Person(array[0], DateTime.Parse(array[1]), double.Parse(array[2]), bool.Parse(array[3]), int.Parse(array[4]));
+            return person;
+        }
+        public void SavePersons(Person[] persons)
+        {
+            StreamWriter sw = new StreamWriter(dataFileName);
+            for (int i = 0; i < persons.Length; i++)
+            {
+                sw.WriteLine(persons[i].MakeTitle());
+            }
+            sw.Close();
+        }
+        public Person[] LoadPersons()
+        {
+            Person[] person = new Person[10];
+            string line;
+            int i = 0;
+            string[] array = new string[5];
+            StreamReader sr = new StreamReader(dataFileName);
+
+            line = sr.ReadLine();
+            while (line != null)
+            {
+             array = line.Split(';');
+             person[i] = new Person(array[0], DateTime.Parse(array[1]), double.Parse(array[2]), bool.Parse(array[3]), int.Parse(array[4]));
+             line = sr.ReadLine();
+                i++;
+            }
+            sr.Close();
+            return person;
+        }

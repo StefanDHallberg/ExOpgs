@@ -1,0 +1,14 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\bin\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 3 - C#Data\Opg 3 - CSharp-Data\obj\Debug\netcoreapp3.1\Opg 3 - CSharp-Data.genruntimeconfig.cache

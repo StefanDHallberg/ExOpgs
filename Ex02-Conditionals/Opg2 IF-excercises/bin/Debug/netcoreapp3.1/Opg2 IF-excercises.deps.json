@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Opg2 IF-excercises/1.0.0": {
+        "runtime": {
+          "Opg2 IF-excercises.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Opg2 IF-excercises/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

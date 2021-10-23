@@ -1,0 +1,16 @@
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.exe
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.deps.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.runtimeconfig.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.runtimeconfig.dev.json
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\ref\OrangeTreeSim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\bin\Debug\net5.0\OrangeTreeSim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.csproj.AssemblyReference.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.AssemblyInfoInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.AssemblyInfo.cs
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.csproj.CoreCompileInputs.cache
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\ref\OrangeTreeSim.dll
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.pdb
+C:\Users\Karoline\Dropbox\1Datamatiker\Programmering\Ex09-OrangeTree.Forside\OrangeTreeSim\obj\Debug\net5.0\OrangeTreeSim.genruntimeconfig.cache

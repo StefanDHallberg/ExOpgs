@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ggi3TJazOmf1o/wiorGlxMs+xyIutZWMRalfUge/QXG49cnrPcQtpeolUQc+6/WzyNaJL6VEu1DrHklr9oSlUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex03-CSharpData\\Opg 3 - CSharp-Data\\Opg 3 - CSharp-Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefan H\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,28 @@
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.exe
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.deps.json
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.runtimeconfig.json
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.runtimeconfig.dev.json
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.dll
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.pdb
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.csproj.AssemblyReference.cache
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.AssemblyInfoInputs.cache
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.AssemblyInfo.cs
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.csproj.CoreCompileInputs.cache
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.dll
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.pdb
+C:\Users\basse\source\repos\Skole\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\bin\Debug\netcoreapp3.1\Ex05- Calculator.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Opg 5 - Methods\Ex05- Calculator\Ex05- Calculator\obj\Debug\netcoreapp3.1\Ex05- Calculator.genruntimeconfig.cache
