@@ -17,5 +17,6 @@ namespace Disaheim
             Books = new List<Book>();
             Amulets = new List<Amulet>();
             Courses = new List<Course>();
+        }
     }
 }

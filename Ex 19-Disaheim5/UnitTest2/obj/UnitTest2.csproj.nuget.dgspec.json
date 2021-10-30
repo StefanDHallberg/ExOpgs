@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\UnitTest2\\UnitTest2.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\Disaheim.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\Disaheim.csproj",
+        "projectName": "Disaheim",
+        "projectPath": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\Disaheim.csproj",
+        "packagesPath": "C:\\Users\\Karoline\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karoline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\UnitTest2\\UnitTest2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\UnitTest2\\UnitTest2.csproj",
+        "projectName": "UnitTest2",
+        "projectPath": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\UnitTest2\\UnitTest2.csproj",
+        "packagesPath": "C:\\Users\\Karoline\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\UnitTest2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karoline\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\Disaheim.csproj": {
+                "projectPath": "C:\\Users\\Karoline\\Dropbox\\1Datamatiker\\Programmering\\ex16-Disaheim2\\Disaheim\\Disaheim.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
