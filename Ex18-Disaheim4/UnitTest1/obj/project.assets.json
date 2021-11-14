@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
       "projectName": "UnitTest1",
-      "projectPath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
+      "projectPath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
       "packagesPath": "C:\\Users\\Stefan H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\UnitTest1\\obj\\",
+      "outputPath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\UnitTest1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan H\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj": {
-              "projectPath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj"
+            "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj": {
+              "projectPath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj"
             }
           }
         }

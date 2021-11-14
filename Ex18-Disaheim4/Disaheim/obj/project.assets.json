@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj",
       "projectName": "Disaheim",
-      "projectPath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj",
+      "projectPath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\Disaheim\\Disaheim.csproj",
       "packagesPath": "C:\\Users\\Stefan H\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\Disaheim\\obj\\",
+      "outputPath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\Disaheim\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stefan H\\AppData\\Roaming\\NuGet\\NuGet.Config",

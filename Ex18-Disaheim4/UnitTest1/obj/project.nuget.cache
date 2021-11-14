@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CN/y2AXOAzq1aG0Lw9TaNBu24JmMXN2HT+MaevpoUnWh+AwYoS8XYj3YRr66TN1z7TnoaB0N6dXgQtNG4uPVXQ==",
+  "dgSpecHash": "zM9o5BHJr/BoTwJQr6ZrtObFedJG1wR7rqsieiYj0vVoOkOR/Nw+aOSWhUmcXbKRDqgZFPv3zAQZYMwFp6BkEg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan H\\Dropbox\\1Datamatiker\\Programmering\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
+  "projectFilePath": "C:\\Users\\Stefan H\\Desktop\\ExOpgs\\Ex18-Disaheim4\\UnitTest1\\UnitTest1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan H\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Stefan H\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",
