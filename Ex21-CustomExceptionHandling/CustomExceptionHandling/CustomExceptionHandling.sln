@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomExceptionHandling", "CustomExceptionHandling.csproj", "{2237023D-3975-42FE-B6BE-70DD5A698474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TotallySafeLib", "..\TotallySafeLib\TotallySafeLib.csproj", "{6E1277C4-4FF7-4199-8CB4-E1A732F1B326}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2237023D-3975-42FE-B6BE-70DD5A698474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2237023D-3975-42FE-B6BE-70DD5A698474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2237023D-3975-42FE-B6BE-70DD5A698474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2237023D-3975-42FE-B6BE-70DD5A698474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1277C4-4FF7-4199-8CB4-E1A732F1B326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1277C4-4FF7-4199-8CB4-E1A732F1B326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1277C4-4FF7-4199-8CB4-E1A732F1B326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1277C4-4FF7-4199-8CB4-E1A732F1B326}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33EA6B92-D921-48D1-86B8-CB9610BF4923}
+	EndGlobalSection
+EndGlobal

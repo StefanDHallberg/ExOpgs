@@ -1,0 +1,72 @@
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.exe
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.deps.json
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.json
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.dev.json
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.g.cs
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.cache
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.lref
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.baml
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.g.resources
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfoInputs.cache
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfo.cs
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.CoreCompileInputs.cache
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.genruntimeconfig.cache
+C:\Users\Emil\source\repos\TusindfrydWPF\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.lref
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.baml
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.g.resources
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex26-WPFTusindfrydGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\bin\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF_MarkupCompile.lref
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\CreateFlowerSortDialog.baml
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.g.resources
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\ref\TusindfrydWPF.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex25-WPFDialogGUI\TusindfrydWPF - en anden\TusindfrydWPF\obj\Debug\net5.0-windows\TusindfrydWPF.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+git add .
+git commit -m "Besked"
+git push
+
+
+rm -f .git/index.lock
+(hvis du har komme til at lukke
+git før sessionen var færdig
+så den kører 2 sessioner..)
+
+

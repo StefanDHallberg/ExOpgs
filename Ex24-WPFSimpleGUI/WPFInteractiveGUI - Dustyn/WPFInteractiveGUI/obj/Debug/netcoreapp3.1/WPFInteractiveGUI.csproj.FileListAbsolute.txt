@@ -1,0 +1,40 @@
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.exe
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.deps.json
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.runtimeconfig.json
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.runtimeconfig.dev.json
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.dll
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.pdb
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.csproj.AssemblyReference.cache
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI_MarkupCompile.cache
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI_MarkupCompile.lref
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.g.resources
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.AssemblyInfoInputs.cache
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.AssemblyInfo.cs
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.dll
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.pdb
+C:\Users\kaspe\OneDrive\Skrivebord\Programmering\dmu-2021-2022-exercise-materials\Ex24-WPFInteractiveGUI\WPFInteractiveGUI\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.genruntimeconfig.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.exe
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.runtimeconfig.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.runtimeconfig.dev.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\bin\Debug\netcoreapp3.1\WPFInteractiveGUI.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI_MarkupCompile.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI_MarkupCompile.lref
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.g.resources
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex24-WPFSimpleGUI\WPFInteractiveGUI - Dustyn\WPFInteractiveGUI\obj\Debug\netcoreapp3.1\WPFInteractiveGUI.genruntimeconfig.cache

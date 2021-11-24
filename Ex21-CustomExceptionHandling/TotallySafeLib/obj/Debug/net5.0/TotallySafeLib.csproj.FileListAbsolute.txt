@@ -1,0 +1,12 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\bin\Debug\net5.0\TotallySafeLib.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\bin\Debug\net5.0\TotallySafeLib.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\bin\Debug\net5.0\ref\TotallySafeLib.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\bin\Debug\net5.0\TotallySafeLib.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\ref\TotallySafeLib.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex21-CustomExceptionHandling\TotallySafeLib\obj\Debug\net5.0\TotallySafeLib.pdb
