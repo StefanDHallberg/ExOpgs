@@ -1,0 +1,16 @@
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.exe
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.deps.json
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.runtimeconfig.json
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.runtimeconfig.dev.json
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.dll
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\ref\Ex31_observerPatternOPG4.dll
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\bin\Debug\net5.0\Ex31_observerPatternOPG4.pdb
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.csproj.AssemblyReference.cache
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.AssemblyInfoInputs.cache
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.AssemblyInfo.cs
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.csproj.CoreCompileInputs.cache
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.dll
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\ref\Ex31_observerPatternOPG4.dll
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.pdb
+C:\Users\rasmu\Desktop\Programering\CS\Ex31_observerPatternOPG4\Ex31_observerPatternOPG4\obj\Debug\net5.0\Ex31_observerPatternOPG4.genruntimeconfig.cache

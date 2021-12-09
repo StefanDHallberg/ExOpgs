@@ -1,0 +1,6 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\bin\Debug\net5.0\CoverletSourceRootsMapping
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\obj\Debug\net5.0\ADTTest.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\obj\Debug\net5.0\ADTTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\obj\Debug\net5.0\ADTTest.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\obj\Debug\net5.0\ADTTest.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADTTest\obj\Debug\net5.0\ADTTest.csproj.CoreCompileInputs.cache

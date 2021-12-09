@@ -1,0 +1,32 @@
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.exe
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.deps.json
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.json
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.runtimeconfig.dev.json
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.dll
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ref\ObserverPattern.dll
+E:\Visual projekter\ObserverPattern\ObserverPattern\bin\Debug\net5.0\ObserverPattern.pdb
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+E:\Visual projekter\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.genruntimeconfig.cache
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\Stefan H\Desktop\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ref\ObserverPattern.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex34-Event\En anden\ObserverPattern\ObserverPattern\obj\Debug\net5.0\ObserverPattern.pdb

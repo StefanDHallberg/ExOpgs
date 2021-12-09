@@ -1,0 +1,24 @@
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.csproj.AssemblyReference.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\bin\Debug\net5.0\ADT.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\bin\Debug\net5.0\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\bin\Debug\net5.0\ref\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\bin\Debug\net5.0\ADT.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ref\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\ADT\obj\Debug\net5.0\ADT.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\bin\Debug\net5.0\ADT.deps.json
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\bin\Debug\net5.0\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\bin\Debug\net5.0\ref\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\bin\Debug\net5.0\ADT.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.AssemblyInfoInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.AssemblyInfo.cs
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.csproj.CoreCompileInputs.cache
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ref\ADT.dll
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.pdb
+C:\Users\Stefan H\Dropbox\1Datamatiker\Programmering\Ex36-LinkedList\Generisk ADT\obj\Debug\net5.0\ADT.csproj.AssemblyReference.cache
